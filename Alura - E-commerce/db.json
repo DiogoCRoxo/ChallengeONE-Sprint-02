@@ -1,0 +1,166 @@
+{
+  "products": [
+    {
+      "imgURL": "https://github.com/DiogoCRoxo/ChallengeONE-Sprint-02/blob/main/Alura%20-%20E-commerce/admin/assets/img/listProducts/xyz1.png?raw=true",
+      "alt": "produto",
+      "category": "star wars",
+      "name": "Caneca Star Wars",
+      "price": "160,00",
+      "description": "If you make POST, PUT, PATCH or DELETE requests, changes will be automatically and safely saved to",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "imgURL": "https://github.com/DiogoCRoxo/ChallengeONE-Sprint-02/blob/main/Alura%20-%20E-commerce/admin/assets/img/listProducts/xyz2.png?raw=true",
+      "alt": "produto",
+      "name": "Darth Vader",
+      "category": "star wars",
+      "price": "60,00",
+      "description": "Based on the previous db.json file, here are all the default routes. You can also add other"
+    },
+    {
+      "id": 3,
+      "imgURL": "https://github.com/DiogoCRoxo/ChallengeONE-Sprint-02/blob/main/Alura%20-%20E-commerce/admin/assets/img/listProducts/xyz3.png?raw=true",
+      "alt": "produto",
+      "name": "Mini Mestre Ioda",
+      "category": "star wars",
+      "price": "60,00",
+      "description": "Based on the previous db.json file, here are all the default routes. You can also add other"
+    },
+    {
+      "id": 4,
+      "imgURL": "https://github.com/DiogoCRoxo/ChallengeONE-Sprint-02/blob/main/Alura%20-%20E-commerce/admin/assets/img/listProducts/xyz4.png?raw=true",
+      "alt": "produto",
+      "name": "Boneco Stromtrooper",
+      "category": "star wars",
+      "price": "60,00",
+      "description": "Based on the previous db.json file, here are all the default routes. You can also add other"
+    },
+    {
+      "id": 5,
+      "imgURL": "https://github.com/DiogoCRoxo/ChallengeONE-Sprint-02/blob/main/Alura%20-%20E-commerce/admin/assets/img/listProducts/xyz5.png?raw=true",
+      "alt": "produto",
+      "name": "Mestre Ioda ",
+      "category": "star wars",
+      "price": "60,00",
+      "description": "Based on the previous db.json file, here are all the default routes. You can also add other"
+    },
+    {
+      "id": 6,
+      "imgURL": "https://github.com/DiogoCRoxo/ChallengeONE-Sprint-02/blob/main/Alura%20-%20E-commerce/admin/assets/img/listProducts/xyz6.png?raw=true",
+      "alt": "produto",
+      "name": "Boneco Darth Vader",
+      "category": "star wars",
+      "price": "60,00",
+      "description": "Based on the previous db.json file, here are all the default routes. You can also add other"
+    },
+    {
+      "id": 7,
+      "imgURL": "https://github.com/DiogoCRoxo/ChallengeONE-Sprint-02/blob/main/Alura%20-%20E-commerce/admin/assets/img/listProducts/xyz7.png?raw=true",
+      "alt": "produto",
+      "name": "Console XBox",
+      "category": "consoles",
+      "price": "60,00",
+      "description": "Based on the previous db.json file, here are all the default routes. You can also add other"
+    },
+    {
+      "id": 8,
+      "imgURL": "https://github.com/DiogoCRoxo/ChallengeONE-Sprint-02/blob/main/Alura%20-%20E-commerce/admin/assets/img/listProducts/xyz8.png?raw=true",
+      "alt": "produto",
+      "name": "Play Station 5",
+      "category": "consoles",
+      "price": "60,00",
+      "description": "Based on the previous db.json file, here are all the default routes. You can also add other"
+    },
+    {
+      "id": 9,
+      "imgURL": "https://github.com/DiogoCRoxo/ChallengeONE-Sprint-02/blob/main/Alura%20-%20E-commerce/admin/assets/img/listProducts/xyz9.png?raw=true",
+      "alt": "produto",
+      "name": "Nintendo",
+      "category": "consoles",
+      "price": "60,00",
+      "description": "Based on the previous db.json file, here are all the default routes. You can also add other"
+    },
+    {
+      "id": 10,
+      "imgURL": "https://github.com/DiogoCRoxo/ChallengeONE-Sprint-02/blob/main/Alura%20-%20E-commerce/admin/assets/img/listProducts/xyz10.png?raw=true",
+      "alt": "produto",
+      "name": "Console Nintendo Switch",
+      "category": "consoles",
+      "price": "60,00",
+      "description": "Based on the previous db.json file, here are all the default routes. You can also add other"
+    },
+    {
+      "id": 11,
+      "imgURL": "https://github.com/DiogoCRoxo/ChallengeONE-Sprint-02/blob/main/Alura%20-%20E-commerce/admin/assets/img/listProducts/xyz11.png?raw=true",
+      "alt": "produto",
+      "name": "XBox",
+      "category": "consoles",
+      "price": "60,00",
+      "description": "Based on the previous db.json file, here are all the default routes. You can also add other"
+    },
+    {
+      "id": 12,
+      "imgURL": "https://github.com/DiogoCRoxo/ChallengeONE-Sprint-02/blob/main/Alura%20-%20E-commerce/admin/assets/img/listProducts/xyz12.png?raw=true",
+      "alt": "produto",
+      "name": "Game Boy",
+      "category": "consoles",
+      "price": "60,00",
+      "description": "Based on the previous db.json file, here are all the default routes. You can also add other"
+    },
+    {
+      "id": 13,
+      "imgURL": "https://github.com/DiogoCRoxo/ChallengeONE-Sprint-02/blob/main/Alura%20-%20E-commerce/admin/assets/img/listProducts/xyz13.png?raw=true",
+      "alt": "produto",
+      "name": "Camisa",
+      "category": "diversos",
+      "price": "60,00",
+      "description": "Based on the previous db.json file, here are all the default routes. You can also add other"
+    },
+    {
+      "id": 14,
+      "imgURL": "https://github.com/DiogoCRoxo/ChallengeONE-Sprint-02/blob/main/Alura%20-%20E-commerce/admin/assets/img/listProducts/xyz14.png?raw=true",
+      "alt": "produto",
+      "name": "Camisa 2",
+      "category": "diversos",
+      "price": "60,00",
+      "description": "Based on the previous db.json file, here are all the default routes. You can also add other"
+    },
+    {
+      "id": 15,
+      "imgURL": "https://github.com/DiogoCRoxo/ChallengeONE-Sprint-02/blob/main/Alura%20-%20E-commerce/admin/assets/img/listProducts/xyz15.png?raw=true",
+      "alt": "produto",
+      "name": "Boneco Sonic",
+      "category": "diversos",
+      "price": "60,00",
+      "description": "Based on the previous db.json file, here are all the default routes. You can also add other"
+    },
+    {
+      "id": 16,
+      "imgURL": "https://github.com/DiogoCRoxo/ChallengeONE-Sprint-02/blob/main/Alura%20-%20E-commerce/admin/assets/img/listProducts/xyz16.png?raw=true",
+      "alt": "produto qual",
+      "name": "Radio Relógio",
+      "category": "diversos",
+      "price": "60,00",
+      "description": "Based on the previous db.json file, here are all the default routes. You can also add other"
+    },
+    {
+      "id": 17,
+      "imgURL": "https://github.com/DiogoCRoxo/ChallengeONE-Sprint-02/blob/main/Alura%20-%20E-commerce/admin/assets/img/listProducts/xyz17.png?raw=true",
+      "alt": "produto ",
+      "name": "Oculos VR",
+      "category": "diversos",
+      "price": "60,00",
+      "description": "Based on the previous db.json file, here are all the default routes. You can also add other"
+    },
+    {
+      "id": 18,
+      "imgURL": "https://github.com/DiogoCRoxo/ChallengeONE-Sprint-02/blob/main/Alura%20-%20E-commerce/admin/assets/img/listProducts/xyz18.png?raw=true",
+      "alt": "produto ",
+      "name": "Pikachu",
+      "category": "diversos",
+      "price": "60,00",
+      "description": "Based on the previous db.json file, here are all the default routes. You can also add other"
+    }
+  ]
+}
